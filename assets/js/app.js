@@ -43,44 +43,44 @@ const app = {
     {
         name: 'Yếu đuối',
         singer: 'Dung dz',
-        path: '/assets/music/YeuDuoi-QuangDangTran-6690099.mp3',
-        image: '/assets/img/img1.jpg'
+        path: './assets/music/YeuDuoi-QuangDangTran-6690099.mp3',
+        image: './assets/img/img1.jpg'
     },
     {
         name: 'Ngày mai em đi mất',
         singer: 'Dung dz 1st',
-        path: '/assets/music/NgayMaiEmDiMat-KhaiDangDatG-7747861.mp3',
-        image: '/assets/img/img2.jpg'
+        path: './assets/music/NgayMaiEmDiMat-KhaiDangDatG-7747861.mp3',
+        image: './assets/img/img2.jpg'
     },
     {
         name: 'Roi ta se ngam phao hoa cung nhau',
         singer: 'Dung dz siu',
-        path: '/assets/music/RoiTaSeNgamPhaoHoaCungNhau-OlewVietNam-8485329.mp3',
-        image: '/assets/img/img3.jpg'
+        path: './assets/music/RoiTaSeNgamPhaoHoaCungNhau-OlewVietNam-8485329.mp3',
+        image: './assets/img/img3.jpg'
     },
     {
         name: 'Anh nhớ ra',
         singer: 'Dung dz cap',
-        path: '/assets/music/y2mate.com - Anh Nhớ Ra  Vũ live at Soul of The Forest.mp3',
-        image: '/assets/img/img4.jpg'
+        path: './assets/music/y2mate.com - Anh Nhớ Ra  Vũ live at Soul of The Forest.mp3',
+        image: './assets/img/img4.jpg'
     },
     {
         name: 'Ngày em đẹp nhất',
         singer: 'Dung dz pro',
-        path: '/assets/music/y2mate.com - NGÀY EM ĐẸP NHẤT  TAMA Official Music Video.mp3',
-        image: '/assets/img/img5.jpg'
+        path: './assets/music/y2mate.com - NGÀY EM ĐẸP NHẤT  TAMA Official Music Video.mp3',
+        image: './assets/img/img5.jpg'
     },
     {
         name: 'Phản bội chính mình',
         singer: 'DŨNG ĐẸP',
-        path: '/assets/music/y2mate.com - QUÂN AP x VƯƠNG ANH TÚ  PHẢN BỘI CHÍNH MÌNH  OFFICIAL MV COVER .mp3',
-        image: '/assets/img/img6.jpg'
+        path: './assets/music/y2mate.com - QUÂN AP x VƯƠNG ANH TÚ  PHẢN BỘI CHÍNH MÌNH  OFFICIAL MV COVER .mp3',
+        image: './assets/img/img6.jpg'
     },
     {
       name: 'Đừng ai nhắc về người ấy',
       singer: 'Dung dz',
-      path: '/assets/music/y2mate.com - Đạt G  Đừng Ai Nhắc Về Cô Ấy  Live at tasteofTHESOUL DatGMusic.mp3',
-      image: '/assets/img/img7.jpg'
+      path: './assets/music/y2mate.com - Đạt G  Đừng Ai Nhắc Về Cô Ấy  Live at tasteofTHESOUL DatGMusic.mp3',
+      image: './assets/img/img7.jpg'
   },
   ],
 
