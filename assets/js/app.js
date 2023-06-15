@@ -73,14 +73,14 @@ const app = {
     {
         name: 'Phản bội chính mình',
         singer: 'DŨNG ĐẸP',
-        path: '/assets/music/y2mate.com - QUÂN AP x VƯƠNG ANH TÚ  PHẢN BỘI CHÍNH MÌNH  OFFICIAL MV COVER .mp3',
-        image: '/assets/img/img6.jpg'
+        path: './assets/music/y2mate.com - QUÂN AP x VƯƠNG ANH TÚ  PHẢN BỘI CHÍNH MÌNH  OFFICIAL MV COVER .mp3',
+        image: './assets/img/img6.jpg'
     },
     {
       name: 'Đừng ai nhắc về người ấy',
       singer: 'Dung dz',
-      path: '/assets/music/y2mate.com - Đạt G  Đừng Ai Nhắc Về Cô Ấy  Live at tasteofTHESOUL DatGMusic.mp3',
-      image: '/assets/img/img7.jpg'
+      path: './assets/music/y2mate.com - Đạt G  Đừng Ai Nhắc Về Cô Ấy  Live at tasteofTHESOUL DatGMusic.mp3',
+      image: './assets/img/img7.jpg'
   },
   ],
 
