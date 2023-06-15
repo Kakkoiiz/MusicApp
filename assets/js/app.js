@@ -72,7 +72,7 @@ const app = {
     },
     {
         name: 'Phản bội chính mình',
-        singer: 'DŨNG ĐẸP',
+        singer: 'DŨNG ĐẸP Trai',
         path: './assets/music/y2mate.com - QUÂN AP x VƯƠNG ANH TÚ  PHẢN BỘI CHÍNH MÌNH  OFFICIAL MV COVER .mp3',
         image: './assets/img/img6.jpg'
     },
